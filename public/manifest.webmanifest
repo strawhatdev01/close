@@ -1,0 +1,17 @@
+{
+  "name": "Close",
+  "short_name": "Close",
+  "description": "Rider remittance for Lagos dispatch desks.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#efe9db",
+  "theme_color": "#161410",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
